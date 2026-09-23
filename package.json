@@ -21,6 +21,8 @@
   "homepage": "https://github.com/subrata9995/project#readme",
   "dependencies": {
     "express": "^5.2.1",
-    "mongodb": "^7.6.0"
-  }
+    "mongodb": "^7.6.0",
+    "mongoose": "^9.10.2"
+  },
+  "devDependencies": {}
 }
